@@ -1,0 +1,138 @@
+{C:/Users/Lela/Desktop/VLSI sa100390 pn100400/Decode.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/Decode.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package instrSet
+-- Compiling entity Decode
+-- Compiling architecture impl of Decode
+-- Loading entity Regfile
+
+} {} {}} {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/InstructionCache.vhd} {2 {vcom -work work -2002 -explicit {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/InstructionCache.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package instrSet
+-- Compiling entity InstrCache
+-- Compiling architecture ins_cache_impl of InstrCache
+** Warning: C:/Users/Lela/Desktop/VLSI sa100390 pn100400/InstructionCache.vhd(33): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+
+** Warning: C:/Users/Lela/Desktop/VLSI sa100390 pn100400/InstructionCache.vhd(49): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+
+
+} {} {}} {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/InstrCosnt.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/InstrCosnt.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package instrSet
+-- Compiling package body instrSet
+-- Loading package instrSet
+
+} {} {}} {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/branch_predictor.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/branch_predictor.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity BranchPredictor
+-- Compiling architecture rtl of BranchPredictor
+
+} {} {}} {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/WB.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/WB.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity WB
+-- Compiling architecture rtl of WB
+
+} {} {}} {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/EX.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/EX.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Exe
+-- Compiling architecture rtl of Exe
+
+} {} {}} {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/forward.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/forward.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Forward
+-- Compiling architecture rtl of Forward
+
+} {} {}} {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/DataCache.vhd} {2 {vcom -work work -2002 -explicit {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/DataCache.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package instrSet
+-- Compiling entity DataCache
+-- Compiling architecture rtl of DataCache
+** Warning: C:/Users/Lela/Desktop/VLSI sa100390 pn100400/DataCache.vhd(39): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+
+** Warning: C:/Users/Lela/Desktop/VLSI sa100390 pn100400/DataCache.vhd(63): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+
+
+} {} {}} {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/Regfile.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/Regfile.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Regfile
+-- Compiling architecture rtl of Regfile
+
+} {} {}} {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/if.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/if.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity if_jedinica
+-- Compiling architecture impl of if_jedinica
+
+} {} {}} {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/MEM.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/MEM.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MEM
+-- Compiling architecture rtl of MEM
+
+} {} {}} {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/cpu.vht} {1 {vcom -work work -2002 -explicit {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/cpu.vht}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity cpu_vhd_tst
+-- Compiling architecture cpu_arch of cpu_vhd_tst
+
+} {} {}} {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/cpu.vhd} {1 {vcom -work work -2002 -explicit {C:/Users/Lela/Desktop/VLSI sa100390 pn100400/cpu.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cpu
+-- Compiling architecture rtl of cpu
+-- Loading entity if_jedinica
+-- Loading package instrSet
+-- Loading entity Decode
+-- Loading entity Exe
+-- Loading entity MEM
+-- Loading entity WB
+-- Loading entity Forward
+-- Loading entity BranchPredictor
+
+} {} {}}

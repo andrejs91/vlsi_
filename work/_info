@@ -1,0 +1,501 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Lela\Desktop\VHDL projekat final\simulation\cpu_vht_sim
+Ebranchpredictor
+Z0 w1465996036
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Lela\Desktop\VLSI sa100390 pn100400
+Z5 8C:/Users/Lela/Desktop/VLSI sa100390 pn100400/branch_predictor.vhd
+Z6 FC:/Users/Lela/Desktop/VLSI sa100390 pn100400/branch_predictor.vhd
+l0
+L6
+VenVOABaLh:>A3ZF;DdQoC1
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1466284829.498000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lela/Desktop/VLSI sa100390 pn100400/branch_predictor.vhd|
+Z10 !s107 C:/Users/Lela/Desktop/VLSI sa100390 pn100400/branch_predictor.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 0@GDUOHfiHgFmVcMER<E@1
+!i10b 1
+Artl
+R1
+R2
+R3
+Z13 DEx4 work 15 branchpredictor 0 22 enVOABaLh:>A3ZF;DdQoC1
+l57
+L41
+VGJ7BjFU8gddK5PW7VVVnf0
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 C3ff6Dm^<3:7Pl91EgGo72
+!i10b 1
+Ecpu
+Z14 w1466279140
+R1
+R2
+R3
+R4
+Z15 8C:/Users/Lela/Desktop/VLSI sa100390 pn100400/cpu.vhd
+Z16 FC:/Users/Lela/Desktop/VLSI sa100390 pn100400/cpu.vhd
+l0
+L6
+ViEzU1iNEETagje_b>_@n62
+R7
+32
+Z17 !s108 1466284832.982000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lela/Desktop/VLSI sa100390 pn100400/cpu.vhd|
+Z19 !s107 C:/Users/Lela/Desktop/VLSI sa100390 pn100400/cpu.vhd|
+R11
+R12
+!s100 NoORFmeaQHgNJKXg:e>mF3
+!i10b 1
+Artl
+R13
+Z20 DEx4 work 7 forward 0 22 [;`48mRT`^OmBFMaIe[:o0
+Z21 DEx4 work 2 wb 0 22 [OGF2=jW<_K8dRFT^XTzQ1
+Z22 DEx4 work 3 mem 0 22 B7lNYJnPi>N`EMffiMVX32
+Z23 DEx4 work 3 exe 0 22 5X>czU5:5MbXbMz27JU`60
+Z24 DPx4 work 8 instrset 0 22 hQ[IAb_3DTl_=@MMmg81N3
+Z25 DEx4 work 6 decode 0 22 njZCCa<AmATK:cHb[Sbd?2
+Z26 DEx4 work 11 if_jedinica 0 22 Nb1;k^fYkE[2oWgCij[B=3
+R1
+R2
+R3
+DEx4 work 3 cpu 0 22 iEzU1iNEETagje_b>_@n62
+l122
+L40
+V=0_Il8M<M@Z=Jf8m56hQH3
+!s100 ;I86dYCfkm`0TBVZRi:Pn3
+R7
+32
+R17
+R18
+R19
+R11
+R12
+!i10b 1
+Ecpu_vhd_tst
+Z27 w1466280481
+R2
+R3
+R4
+Z28 8C:/Users/Lela/Desktop/VLSI sa100390 pn100400/cpu.vht
+Z29 FC:/Users/Lela/Desktop/VLSI sa100390 pn100400/cpu.vht
+l0
+L5
+VVDM_1eAlmCh6aA745aBI12
+!s100 BYJ9SKKIY@`95[DiTkFOe3
+R7
+32
+!i10b 1
+Z30 !s108 1466284833.513000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lela/Desktop/VLSI sa100390 pn100400/cpu.vht|
+Z32 !s107 C:/Users/Lela/Desktop/VLSI sa100390 pn100400/cpu.vht|
+R11
+R12
+Acpu_arch
+R2
+R3
+Z33 DEx4 work 11 cpu_vhd_tst 0 22 VDM_1eAlmCh6aA745aBI12
+l74
+L15
+Z34 V`j6d[M9`Rj[m]lLfF>24e2
+Z35 !s100 YHUBFB0F`Z<M82WZQ12o;3
+R7
+32
+!i10b 1
+R30
+R31
+R32
+R11
+R12
+Edatacache
+Z36 w1466284823
+R24
+R1
+R2
+R3
+R4
+Z37 8C:/Users/Lela/Desktop/VLSI sa100390 pn100400/DataCache.vhd
+Z38 FC:/Users/Lela/Desktop/VLSI sa100390 pn100400/DataCache.vhd
+l0
+L8
+V1UAakMe56l;E5d1B7dNaz0
+R7
+32
+Z39 !s108 1466284829.826000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lela/Desktop/VLSI sa100390 pn100400/DataCache.vhd|
+Z41 !s107 C:/Users/Lela/Desktop/VLSI sa100390 pn100400/DataCache.vhd|
+R11
+R12
+!s100 ]UF?kk@C>nmO3OV:6;g>B3
+!i10b 1
+Artl
+R24
+R1
+R2
+R3
+DEx4 work 9 datacache 0 22 1UAakMe56l;E5d1B7dNaz0
+l96
+L33
+V[V`7=f=43QWm8`dm:31@I2
+R7
+32
+R39
+R40
+R41
+R11
+R12
+!s100 ZC;Uc4HK7i6Q5jI<PbGH_0
+!i10b 1
+Edecode
+Z42 w1466257980
+R24
+R1
+R2
+R3
+R4
+Z43 8C:/Users/Lela/Desktop/VLSI sa100390 pn100400/Decode.vhd
+Z44 FC:/Users/Lela/Desktop/VLSI sa100390 pn100400/Decode.vhd
+l0
+L6
+VnjZCCa<AmATK:cHb[Sbd?2
+R7
+32
+Z45 !s108 1466284830.248000
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lela/Desktop/VLSI sa100390 pn100400/Decode.vhd|
+Z47 !s107 C:/Users/Lela/Desktop/VLSI sa100390 pn100400/Decode.vhd|
+R11
+R12
+!s100 RXBO=1e_==GCCLn1^48YN0
+!i10b 1
+Aimpl
+Z48 DEx4 work 7 regfile 0 22 DaH0W?>RBEER<b6L^HH=c1
+R24
+R1
+R2
+R3
+R25
+l78
+L70
+V:?j^Pn800@h4Ff=gPDLL`3
+R7
+32
+R45
+R46
+R47
+R11
+R12
+!s100 _oEbZ_X3G[IJTV_gP^IEQ1
+!i10b 1
+Eexe
+Z49 w1466264001
+R1
+R2
+R3
+R4
+Z50 8C:/Users/Lela/Desktop/VLSI sa100390 pn100400/EX.vhd
+Z51 FC:/Users/Lela/Desktop/VLSI sa100390 pn100400/EX.vhd
+l0
+L5
+V5X>czU5:5MbXbMz27JU`60
+R7
+32
+Z52 !s108 1466284830.638000
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lela/Desktop/VLSI sa100390 pn100400/EX.vhd|
+Z54 !s107 C:/Users/Lela/Desktop/VLSI sa100390 pn100400/EX.vhd|
+R11
+R12
+!s100 zF71YZCP04nRN053NNIDF0
+!i10b 1
+Artl
+R1
+R2
+R3
+R23
+l71
+L63
+V;dC693bo1I0G]YAQ0>SO>0
+R7
+32
+R52
+R53
+R54
+R11
+R12
+!s100 TgX28^?ieKiEllhi:@cJo1
+!i10b 1
+Eforward
+Z55 w1465830142
+R1
+R2
+R3
+R4
+Z56 8C:/Users/Lela/Desktop/VLSI sa100390 pn100400/forward.vhd
+Z57 FC:/Users/Lela/Desktop/VLSI sa100390 pn100400/forward.vhd
+l0
+L5
+V[;`48mRT`^OmBFMaIe[:o0
+R7
+32
+Z58 !s108 1466284831.029000
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lela/Desktop/VLSI sa100390 pn100400/forward.vhd|
+Z60 !s107 C:/Users/Lela/Desktop/VLSI sa100390 pn100400/forward.vhd|
+R11
+R12
+!s100 OC6Ib;K8FL[>kEI?8dNWn1
+!i10b 1
+Artl
+R1
+R2
+R3
+R20
+l41
+L37
+VA@1lFi0;UZH[ga^`J75ng1
+R7
+32
+R58
+R59
+R60
+R11
+R12
+!s100 b7z97S[_OWX?di;_KNBX53
+!i10b 1
+Eif_jedinica
+Z61 w1466272878
+R1
+R2
+R3
+R4
+Z62 8C:/Users/Lela/Desktop/VLSI sa100390 pn100400/if.vhd
+Z63 FC:/Users/Lela/Desktop/VLSI sa100390 pn100400/if.vhd
+l0
+L5
+VNb1;k^fYkE[2oWgCij[B=3
+R7
+32
+Z64 !s108 1466284831.466000
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lela/Desktop/VLSI sa100390 pn100400/if.vhd|
+Z66 !s107 C:/Users/Lela/Desktop/VLSI sa100390 pn100400/if.vhd|
+R11
+R12
+!s100 imLLIjN23F11Xc>Rgi4lX2
+!i10b 1
+Aimpl
+R1
+R2
+R3
+R26
+l43
+L39
+VBo6g0^o0NGzYb?bH=5gMa1
+R7
+32
+R64
+R65
+R66
+R11
+R12
+!s100 GK_>^LdfD8h<0HXJ6Rkc^1
+!i10b 1
+Einstrcache
+Z67 w1466284796
+R24
+R1
+R2
+R3
+R4
+Z68 8C:/Users/Lela/Desktop/VLSI sa100390 pn100400/InstructionCache.vhd
+Z69 FC:/Users/Lela/Desktop/VLSI sa100390 pn100400/InstructionCache.vhd
+l0
+L7
+V_Pi:lbRdPU;C_X0H`jYle2
+R7
+32
+Z70 !s108 1466284831.857000
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lela/Desktop/VLSI sa100390 pn100400/InstructionCache.vhd|
+Z72 !s107 C:/Users/Lela/Desktop/VLSI sa100390 pn100400/InstructionCache.vhd|
+R11
+R12
+!s100 97SkeI6o`faBBo_j<VBCT2
+!i10b 1
+Ains_cache_impl
+R24
+R1
+R2
+R3
+DEx4 work 10 instrcache 0 22 _Pi:lbRdPU;C_X0H`jYle2
+l85
+L27
+V:nETFfjUHUeg:N`O2`5F>1
+R7
+32
+R70
+R71
+R72
+R11
+R12
+!s100 H2nedZJj]ID^Eo;<?zzff3
+!i10b 1
+Pinstrset
+R1
+R2
+R3
+Z73 w1466180278
+R4
+Z74 8C:/Users/Lela/Desktop/VLSI sa100390 pn100400/InstrCosnt.vhd
+Z75 FC:/Users/Lela/Desktop/VLSI sa100390 pn100400/InstrCosnt.vhd
+l0
+L6
+VhQ[IAb_3DTl_=@MMmg81N3
+R7
+32
+b1
+Z76 !s108 1466284829.076000
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lela/Desktop/VLSI sa100390 pn100400/InstrCosnt.vhd|
+Z78 !s107 C:/Users/Lela/Desktop/VLSI sa100390 pn100400/InstrCosnt.vhd|
+R11
+R12
+!s100 iJA_T<Ag;>=1fJVC@531^2
+!i10b 1
+Bbody
+R24
+R1
+R2
+R3
+l0
+L19
+VRSQGiT>4hnef<`f_O>nC^0
+R7
+32
+R76
+R77
+R78
+R11
+R12
+nbody
+!s100 a;]NhHGRfHBjc2;@VCA]62
+!i10b 1
+Emem
+Z79 w1466258235
+R1
+R2
+R3
+R4
+Z80 8C:/Users/Lela/Desktop/VLSI sa100390 pn100400/MEM.vhd
+Z81 FC:/Users/Lela/Desktop/VLSI sa100390 pn100400/MEM.vhd
+l0
+L5
+VB7lNYJnPi>N`EMffiMVX32
+R7
+32
+Z82 !s108 1466284832.170000
+Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lela/Desktop/VLSI sa100390 pn100400/MEM.vhd|
+Z84 !s107 C:/Users/Lela/Desktop/VLSI sa100390 pn100400/MEM.vhd|
+R11
+R12
+!s100 gS::mJ;lTkh7lneB@hF?X2
+!i10b 1
+Artl
+R1
+R2
+R3
+R22
+l52
+L49
+Ve8Cj>9[o_c[TM2nfMg5JB3
+R7
+32
+R82
+R83
+R84
+R11
+R12
+!s100 LKE1F]:W20aEbb5E8gBUb0
+!i10b 1
+Eregfile
+Z85 w1466080095
+R1
+R2
+R3
+R4
+Z86 8C:/Users/Lela/Desktop/VLSI sa100390 pn100400/Regfile.vhd
+Z87 FC:/Users/Lela/Desktop/VLSI sa100390 pn100400/Regfile.vhd
+l0
+L5
+VDaH0W?>RBEER<b6L^HH=c1
+R7
+32
+Z88 !s108 1466284828.716000
+Z89 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lela/Desktop/VLSI sa100390 pn100400/Regfile.vhd|
+Z90 !s107 C:/Users/Lela/Desktop/VLSI sa100390 pn100400/Regfile.vhd|
+R11
+R12
+!s100 Yg2NKVB9`NaT4gJjXY@L93
+!i10b 1
+Artl
+R1
+R2
+R3
+R48
+l37
+L33
+VX6`<5W1^8<b6>LVQX9N8L1
+R7
+32
+R88
+R89
+R90
+R11
+R12
+!s100 ^FOWFYRJUEHlCDK6[a5XU0
+!i10b 1
+Ewb
+Z91 w1466279110
+R1
+R2
+R3
+R4
+Z92 8C:/Users/Lela/Desktop/VLSI sa100390 pn100400/WB.vhd
+Z93 FC:/Users/Lela/Desktop/VLSI sa100390 pn100400/WB.vhd
+l0
+L5
+V[OGF2=jW<_K8dRFT^XTzQ1
+R7
+32
+Z94 !s108 1466284832.529000
+Z95 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Lela/Desktop/VLSI sa100390 pn100400/WB.vhd|
+Z96 !s107 C:/Users/Lela/Desktop/VLSI sa100390 pn100400/WB.vhd|
+R11
+R12
+!s100 FiD4@B6XIHQRA4bUddT>:1
+!i10b 1
+Artl
+R1
+R2
+R3
+R21
+l40
+L38
+V>E1ia?meI:I[UeB]P]@]d3
+R7
+32
+R94
+R95
+R96
+R11
+R12
+!s100 JKQUj;:2H5SbWhn=2nfgW0
+!i10b 1
